@@ -3,5 +3,5 @@ Bundler.require(:default)
 require 'sinatra'
 
 get '/' do
-  "hello world"
+  "OK"
 end
