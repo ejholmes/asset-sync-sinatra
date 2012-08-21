@@ -1,3 +1,5 @@
+require 'asset_sync'
+
 AssetSync.configure do |config|
   config.fog_provider = 'AWS'
   config.fog_directory = ENV['FOG_DIRECTORY']
