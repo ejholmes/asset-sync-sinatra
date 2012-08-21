@@ -51,6 +51,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport
   asset_sync!
   rake
   sinatra

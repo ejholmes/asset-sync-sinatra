@@ -1,3 +1,4 @@
+require 'active_support/core_ext'
 require 'asset_sync'
 
 AssetSync.configure do |config|
